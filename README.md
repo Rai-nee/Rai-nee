@@ -1,16 +1,16 @@
 [![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)](https://rai-nee.io)
 <h1 align="center">Hi 👋, I'm Golibe Dike!</h1>
-<h3 align="center">and I'm an aspiring Front-End Developer</h3>
+/* <h3 align="center">and I'm an aspiring Front-End Developer</h3> */
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rai-nee&label=Profile%20views&color=0e75b6&style=flat" alt="rai-nee" /> </p>
-
+/*
 - 🔭 I’m currently working on **My Local Food Blog🍚**
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **more front-end projects 😊**
-
+*/
 - 👨‍💻 All of my projects are available at [https://github.com/Rai-nee](https://github.com/Rai-nee)
 
 - 💬 Ask me about **Website Planning and Design**
